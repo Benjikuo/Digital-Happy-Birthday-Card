@@ -15,12 +15,12 @@ A p5.js animated birthday card featuring balloons, confetti, fireworks, and visu
 <br>
 
 ## 🧩 Features
-- 🎈 Floating Balloons – Balloons smoothly rise with subtle movement variations.
-- 🎉 Falling Confetti – A lively particle system that scatters colorful confetti across the screen.
-- 🚩 Dynamic Bunting Flags – Color-changing flags with a wavy rope animation at the top.
-- 🎁 Dropping Gift Boxes – Randomly falling gifts with bouncing animation and rare golden gift variations.
-- 💥 Fireworks – Burst-style particle explosions with randomized colors and fading trails.
-- 🌏 Bilingual Message Switching – Switches title language with scrambling transition effect.
+- 🎈 **Floating Balloons** – Balloons smoothly rise with subtle movement variations.
+- 🎉 **Falling Confetti** – A lively particle system that scatters colorful confetti across the screen.
+- 🚩 **Dynamic Bunting Flags** – Color-changing flags with a wavy rope animation at the top.
+- 🎁 **Dropping Gift Boxes** – Randomly falling gifts with bouncing animation and rare golden gift variations.
+- 💥 **Fireworks** – Burst-style particle explosions with randomized colors and fading trails.
+- 🌏 **Bilingual Message Switching** – Switches title language with scrambling transition effect.
 
 <br>
 
