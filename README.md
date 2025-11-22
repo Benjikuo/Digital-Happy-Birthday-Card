@@ -9,8 +9,8 @@ A p5.js animated birthday card featuring balloons, confetti, fireworks, and visu
 
 ## 🛠️ Why I Built This
 - I created this project for my dad’s 50th birthday.
-- Normally, I make hand-crafted 3D pop-up birthday cards, but this time I wanted to try making a digital version instead.
-- In the future, whenever I want to celebrate someone’s birthday, I can simply send them this online card as a web link.
+- I hade made hand-crafted 3D pop-up cards. This time I wanted to try making a digital version instead.
+- In the future, I can simply send them this online card as a web link to celebrate someone’s birthday.
 
 <br>
 
