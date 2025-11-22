@@ -2,7 +2,7 @@
 A p5.js animated birthday card featuring balloons, confetti, fireworks, and visual effects.
 
 <p>
-  <img src="./image/showcase.gif" width="600">
+  <img src="./image/showcase.gif" width="620">
 </p>
 
 <br>
