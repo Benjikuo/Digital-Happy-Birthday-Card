@@ -36,9 +36,12 @@ Happy birthday/
 <br>
 
 ## ▶️ How to Run
+**Visit the link** 
+- link: [https://benjikuo.github.io/Digital-happy-birthday-card/](https://benjikuo.github.io/Digital-happy-birthday-card/)
+
+**Or run locally**
 1. Download or clone the repository.  
 2. Doubble click to open index.html in any browser.  
-Or you can visit the link: [https://benjikuo.github.io/Digital-happy-birthday-card/](https://benjikuo.github.io/Digital-happy-birthday-card/)
 
 <br>
 
