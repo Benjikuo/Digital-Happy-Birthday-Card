@@ -1,5 +1,5 @@
 # Digital-happy-birthday-card
-A colorful, animated birthday greeting card built with **p5.js**.
+A p5.js animated birthday card featuring balloons, confetti, fireworks, and visual effects.
 
 <p>
   <img src="./image/showcase.gif" width="600">
