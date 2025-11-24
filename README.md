@@ -40,13 +40,13 @@ Happy birthday/
 - link: [https://benjikuo.github.io/Digital-happy-birthday-card/](https://benjikuo.github.io/Digital-happy-birthday-card/)
 
 **Or run locally**
-1. Download or clone the repository.  
-2. Doubble click to open index.html in any browser.  
-
+1. Download or **clone** the repository.  
+2. Doubble click to open **index.html** in any browser.  
+ 
 <br>
 
 ## 📜 License  
 This project is released under the **MIT License**.  
-You are free to use, modify, and share it for learning, personal projects or someone's birthday.  
+You are free to use, modify, and share it for learning, personal projects or celebrating someone’s birthday.  
   
 **Now you can celebrate birthday by a link. 🎉**
