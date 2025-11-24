@@ -30,7 +30,9 @@ Happy birthday/
 ├── image/           # Demonstration gif
 ├── index.html       # Main webpage that loads p5.js and the sketch
 ├── sketch.js        # Core animation logic (balloons, gifts, confetti, fireworks…)
-└── p5.min.js        # p5.js library
+├── p5.min.js        # p5.js library
+├── LICENSE        # MIT license
+└── README.md      # Project documentation
 ```
 
 <br>
