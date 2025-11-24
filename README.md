@@ -8,9 +8,9 @@ A digital birthday card created with p5.js that can be viewed through a web link
 <br>
 
 ## 🛠️ Why I Built This
-- I created this project for my dad’s 50th birthday.
-- I hade made hand-crafted 3D pop-up cards. This time I wanted to try making a digital version instead.
-- In the future, I can simply send them this online card as a web link to celebrate someone’s birthday.
+- This idea originally started as a birthday surprise for someone close to me.
+- I used to make handmade 3D pop-up cards. This time I wanted to try making a digital version instead.
+- With this online version, I can now create personalized birthday moments for anyone through a simple link.
 
 <br>
 
