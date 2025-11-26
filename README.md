@@ -51,4 +51,5 @@ Happy birthday/
 This project is released under the **MIT License**.  
 You are free to use, modify, and share it for learning, personal projects or celebrating someone’s birthday.  
   
-**Now you can celebrate birthday by a link. 🎉**
+© 2025 **Benjamin Kuo**
+
