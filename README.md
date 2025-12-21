@@ -27,12 +27,13 @@ A digital birthday card created with p5.js that can be viewed through a web link
 ## 📂 Project Structure
 ```
 Happy birthday/
-├── image/           # Demonstration gif
-├── index.html       # Main webpage that loads p5.js and the sketch
-├── LICENSE          # MIT license
-├── p5.min.js        # p5.js library
-├── README.md        # Project documentation
-└── sketch.js        # Core animation logic (balloons, gifts, confetti, fireworks…)
+├── image/                  # Demonstration gif
+├── index.html              # Main webpage that loads p5.js and the sketch
+├── sketch.js               # Core animation logic (balloons, gifts, confetti, fireworks…)
+├── p5.min.js               # p5.js library
+├── LICENSE                 # MIT license
+├── README.md               # Project documentation
+└── THIRD_PARTY_NOTICES     # Third-party license notices
 ```
 
 <br>
